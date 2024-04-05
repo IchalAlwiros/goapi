@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"go_restapi/cmd/api/database"
-	"go_restapi/cmd/api/models"
+	"go_restapi/api/database"
+	"go_restapi/api/models"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

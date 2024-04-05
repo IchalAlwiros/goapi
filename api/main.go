@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go_restapi/cmd/api/database"
-	"go_restapi/cmd/api/models"
+	"go_restapi/api/database"
+	"go_restapi/api/models"
+
 	"log"
 	"log/slog"
 	"net/http"

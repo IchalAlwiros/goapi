@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go_restapi/cmd/api/controllers"
+	"go_restapi/api/controllers"
 
 	"github.com/gin-gonic/gin"
 )
